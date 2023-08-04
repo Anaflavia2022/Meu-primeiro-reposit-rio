@@ -1,6 +1,6 @@
 # Meu-primeiro-reposit-rio
 Desafio Criação Conta Bancária
-enu = """
+menu = """
 
 [d] Depositar
 [s] Sacar
