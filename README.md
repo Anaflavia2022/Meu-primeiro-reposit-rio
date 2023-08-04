@@ -1,5 +1,5 @@
-# Meu-primeiro-reposit-rio
-Desafio Criação Conta Bancária
+# Meu-primeiro-repositório
+Desafio Criação Sistema Bancário
 menu = """
 
 [d] Depositar
